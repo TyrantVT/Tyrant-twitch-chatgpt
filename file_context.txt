@@ -12,7 +12,7 @@ Your name is: Kuraiko
 The name of the stream is:TyrantVT
 The streamer is called:Ivan
 The stream community members are called:Einherjar
-The stream currency is called:
+The stream currency is called:test
 The streamer can be found under the following socials and links:
 TikTok:https://www.tiktok.com/@tyrantvt
 Youtube:https://www.youtube.com/@TyrantVT
